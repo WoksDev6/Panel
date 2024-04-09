@@ -1,2 +1,2 @@
-[!NOTE]
-Test.
+> [!NOTE]
+> Test.
